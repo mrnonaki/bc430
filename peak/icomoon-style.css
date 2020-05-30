@@ -1,0 +1,195 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?9dk5nv');
+    src: url('fonts/icomoon.eot?9dk5nv#iefix') format('embedded-opentype'), url('fonts/icomoon.ttf?9dk5nv') format('truetype'), url('fonts/icomoon.woff?9dk5nv') format('woff'), url('fonts/icomoon.svg?9dk5nv#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.ic {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    
+    font-family: 'icomoon' !important;
+    font-size: 18px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+    content: "\e90f";
+}
+
+.icon-expense:before {
+    content: "\e902";
+}
+
+.icon-income:before {
+    content: "\e903";
+}
+
+.icon-contact:before {
+    content: "\e904";
+}
+
+.icon-product:before {
+    content: "\e908";
+}
+
+.icon-accounting:before {
+    content: "\e906";
+}
+
+.icon-setting:before {
+    content: "\e907";
+}
+
+.icon-profile:before {
+    content: "\e909";
+}
+
+.icon-bin:before {
+    content: "\e90a";
+}
+
+.icon-document:before {
+    content: "\e90b";
+}
+
+.icon-add-contact:before {
+    content: "\e90c";
+}
+
+.icon-message:before {
+    content: "\e90d";
+}
+
+.icon-exit:before {
+    content: "\e90e";
+}
+
+.icon-finance:before {
+    content: "\e911";
+}
+
+.icon-help:before {
+    content: "\e916";
+}
+
+.icon-credit-card:before {
+    content: "\e91d";
+}
+
+.icon-upload:before {
+    content: "\e91e";
+}
+
+.icon-print:before {
+    content: "\e91f";
+}
+
+.icon-calendar:before {
+    content: "\e910";
+}
+
+.icon-chevron-right:before {
+    content: "\e915";
+}
+
+.icon-lock:before {
+    content: "\e914";
+}
+
+.icon-search:before {
+    content: "\e912";
+}
+
+.icon-check:before {
+    content: "\e913";
+}
+
+.icon-close:before {
+    content: "\e905";
+    font-size: 8px;
+}
+
+.icon-chevron-left:before {
+    content: "\e919";
+}
+
+.icon-contact1:before {
+    content: "\e91a";
+}
+
+.icon-document1:before {
+    content: "\e91b";
+}
+
+.icon-value:before {
+    content: "\e91c";
+}
+
+.icon-product2:before {
+    content: "\e901";
+}
+
+.icon-chevron-down:before {
+    content: "\e917";
+}
+
+.icon-chevron-up:before {
+    content: "\e918";
+}
+
+.icon-tag:before {
+    content: "\e920";
+}
+
+.icon-gears1:before {
+    content: "\e921";
+}
+
+.icon-gears2:before {
+    content: "\e922";
+}
+
+.icon-balance:before {
+    content: "\e923";
+}
+
+.icon-group:before {
+    content: "\e924";
+}
+
+.icon-send:before {
+    content: "\e925";
+}
+
+.icon-building:before {
+    content: "\e926";
+}
+
+.icon-cash:before {
+    content: "\e927";
+}
+
+.icon-eraser:before {
+    content: "\e928";
+}
+/*extra*/
+
+i.icon {
+    font-family: 'THSarabunNew-Bold';
+}
+
+.accounting-record-console .ui.icon.button,
+.ui.icon.buttons .button .ic {
+    color: #666666;
+}
